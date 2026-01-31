@@ -1,37 +1,37 @@
 # calculator.py
-# مشروع آلة حاسبة
-# الطالبة: امنية
+# calculator project 
+# student :omnia
 
 def add(a, b):
     """
-    دالة الجمع
-    ترجع مجموع رقمين
+    Addition function
+    Returns the sum of two numbers 
     """
     return a + b
 
 
 def subtract(a, b):
     """
-    دالة الطرح
-    ترجع الفرق بين رقمين
+    Subtraction
+    Returns the difference between two numbers 
     """
     return a - b
 
 
 def multiply(a, b):
     """
-    دالة الضرب
-    ترجع حاصل ضرب رقمين
+    Multiplication function
+    Returns the product of two numbers 
     """
     return a * b
 
 
 def divide(a, b):
     """
-    دالة القسمة
-    ترجع ناتج القسمة
-    مع التحقق من القسمة على صفر
+    Division function
+    Returns the result of dividing the 
+    First number by second number 
     """
     if b == 0:
-        return "خطأ: لا يمكن القسمة على صفر"
+        return "Division by zero is not allowed"
     return a / b
