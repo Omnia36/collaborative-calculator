@@ -1,28 +1,25 @@
-## وصف المشروع
-مشروع آلة حاسبة تم تنفيذه باستخدام منصة GitHub بهدف تطبيق مفاهيم العمل الجماعي
-وإدارة الإصدارات (Version Control).
+## Project Description
+This calculator project was developed using the GitHub Platform with the aim of applying concepts of team work and version control. 
 
-يعتمد المشروع على تقسيم المهام البرمجية، حيث تم تنفيذ كل عملية حسابية
-في تعديل (Commit) مستقل مع الالتزام بالتنسيق ووضوح الكود.
+The project is based on dividing
+Programming tasks, where each arithmetic operation was implemented in a separate commit, while maintainting proper formating and clear readable code. 
+## Project Objectives 
+- Training on using GitHub
+- Understanding the teamwork work folw
+- Writing Organized and readable code
+- Professionally documenting code changes 
 
-## أهداف المشروع
-- التدريب على استخدام GitHub
-- فهم آلية العمل الجماعي
-- كتابة كود منظم وقابل للقراءة
-- توثيق التعديلات بشكل احترافي
+## Arithmetic Operation 
+- Addition
+- Subtraction
+- Multiplication
+- Diviation (with handling division by zero) 
+## Implementation process
+-Creating a repository on GiHub
+- Adding functionas for arithmetic operations
+- Making a separate commit for each change
+- Adhering to academic guidelines
 
-## العمليات الحسابية
-- الجمع
-- الطرح
-- الضرب
-- القسمة (مع معالجة القسمة على صفر)
-
-## آلية التنفيذ
-- إنشاء مستودع على GitHub
-- إضافة دوال العمليات الحسابية
-- تنفيذ Commit لكل تعديل برسالة واضحة
-- الالتزام بالتعليمات الأكاديمية
-
-## الطالب
-- الاسم: امنية عبدالعزيز
+## name
+- omnia abdolazize 
 - 
